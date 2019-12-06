@@ -144,3 +144,12 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/python,windows,visualstudiocode
+
+# Image data
+data/*
+
+# Pytorch save file
+*.sav
+
+# Setting file
+*.ini
