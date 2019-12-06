@@ -1,0 +1,6 @@
+[save_files]
+state_dict = pytorch.sav
+[dimensions]
+vec_size = 3
+[hyperparameters]
+vec_weight = 1.14e-01
